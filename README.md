@@ -8,6 +8,13 @@
 
 ## ⚓️ Introducción
 
+El manga de *One Piece*, creado por **Eiichiro Oda**, comenzó su publicación el **22 de julio de 1997** en la revista *Weekly Shōnen Jump* de la editorial **Shueisha**. Desde entonces, ha mantenido una publicación continua, alcanzando en 2025 alrededor de **1.161 capítulos** recopilados en más de **100 volúmenes**.  
+
+Por su parte, el **anime** se estrenó el **20 de octubre de 1999** en la cadena japonesa **Fuji TV**, producido por **Toei Animation**, y hasta la actualidad cuenta con aproximadamente **1.145 episodios** emitidos.  
+
+Ambas versiones continúan en curso, consolidando a *One Piece* como una de las obras más **extensas, influyentes y exitosas** en la historia del manga y el anime.
+
+
 *One Piece* ya no es solo un anime o un manga de aventuras.  
 La obra de **Eiichiro Oda** se ha convertido en una **metáfora del mundo contemporáneo**, donde los conflictos, las injusticias y los sueños reflejan con sorprendente claridad la realidad en la que vivimos.
 
@@ -15,23 +22,7 @@ Durante más de 25 años, Oda ha tejido un universo coherente, profundo y simbó
 
 ---
 
-## 🌍 1. El Sistema Global: El Gobierno Mundial y la Élite del Poder
-
-El **Gobierno Mundial** en *One Piece* representa la estructura de poder global que controla la información, los recursos y la narrativa.  
-
-- **Los Tenryuubito** simbolizan a la **élite intocable**, desconectada del pueblo, viviendo en opulencia a costa del sufrimiento ajeno.  
-- **La Marina** actúa como el brazo armado del sistema, manteniendo un “orden” que en realidad protege los intereses del poder.  
-- La **censura del Siglo Vacío** refleja cómo se manipula la historia para controlar el pensamiento y la percepción pública.  
-
-> “El poder decide qué es justicia.” — Aokiji
-
-### 🔁 Paralelismo real
-En el mundo actual, gobiernos, corporaciones y medios moldean la verdad y reprimen la disidencia.  
-Los “piratas” de *One Piece* simbolizan a las personas y movimientos que buscan la verdad fuera del sistema establecido.
-
----
-
-## 💣 2. Los Conflictos Humanos: Racismo, Guerra, Desigualdad y Libertad
+##  1. Los Conflictos Humanos: Racismo, Guerra, Desigualdad y Libertad
 
 Oda utiliza cada isla del Grand Line como un microcosmos social que refleja **problemas universales**.
 
@@ -65,7 +56,23 @@ Desde los barrios marginales de Luffy y Ace hasta la esclavitud en Sabaody, Oda 
 
 ---
 
-## 🕊️ 3. El Mensaje de Esperanza: Los Sombreros de Paja como Símbolo de Resistencia
+##  2. El Gobierno Mundial y la Élite del Poder
+
+El **Gobierno Mundial** en *One Piece* representa la estructura de poder global que controla la información, los recursos y la narrativa.  
+
+- **Los Tenryuubito** simbolizan a la **élite intocable**, desconectada del pueblo, viviendo en opulencia a costa del sufrimiento ajeno.  
+- **La Marina** actúa como el brazo armado del sistema, manteniendo un “orden” que en realidad protege los intereses del poder.  
+- La **censura del Siglo Vacío** refleja cómo se manipula la historia para controlar el pensamiento y la percepción pública.  
+
+> “El poder decide qué es justicia.” — Aokiji
+
+### 🔁 Paralelismo real
+En el mundo actual, gobiernos, corporaciones y medios moldean la verdad y reprimen la disidencia.  
+Los “piratas” de *One Piece* simbolizan a las personas y movimientos que buscan la verdad fuera del sistema establecido.
+
+---
+
+## 3. El Mensaje de Esperanza: Los Sombreros de Paja como Símbolo de Resistencia
 
 Los **Mugiwara** son mucho más que una tripulación: son **una utopía flotante**.  
 Representan un modelo de convivencia basado en la diversidad, la aceptación y la libertad.
@@ -74,25 +81,9 @@ Representan un modelo de convivencia basado en la diversidad, la aceptación y l
 - Su tripulación está compuesta por razas, géneros y pasados distintos, unidos por el respeto y el sueño compartido.  
 - Su lema, *“¡Quiero vivir libre!”*, se convierte en un manifiesto universal contra la opresión.
 
-**Paralelismo actual:** los movimientos sociales que luchan por derechos humanos, justicia climática o libertad de expresión.
-
 ---
 
-## 🌀 4. El Paralelismo Total: One Piece y el Mundo Real
-
-| Concepto en *One Piece* | Equivalente en el mundo real |
-|--------------------------|------------------------------|
-| **Gobierno Mundial** | El sistema geopolítico global, dominado por potencias y élites. |
-| **Tenryuubito** | Clases dominantes y corporaciones desconectadas del pueblo. |
-| **Marina** | Fuerzas institucionales que sostienen el statu quo. |
-| **Revolucionarios (Dragon, Sabo)** | Movimientos sociales, activistas y disidentes. |
-| **Piratas de Luffy** | Individuos libres, artistas, periodistas o soñadores que desafían el sistema. |
-| **Siglo Vacío** | Historia censurada, manipulación informativa, borrado cultural. |
-| **El “One Piece”** | La verdad, la libertad total o el ideal utópico de igualdad. |
-
----
-
-## 🧭 5. Reflexión Final
+## 4Reflexión Final
 
 *One Piece* ha trascendido su condición de ficción.  
 Es una **crítica simbólica al poder**, una defensa de la libertad y un canto a la esperanza.  
@@ -102,23 +93,16 @@ Mientras existan personas dispuestas a navegar contra la corriente, **la volunta
 
 ---
 
-> 🏴‍☠️ *“Inherited will, the flow of time, and people’s dreams — these are things that will never be stopped. As long as people continue to seek the meaning of freedom, these things will live on forever.”*  
+> 🏴‍☠️ *“La voluntad heredada, el paso del tiempo y los sueños de las personas: son cosas que nunca se detendrán. Mientras la gente siga buscando el significado de la libertad, estas cosas perdurarán para siempre..”*  
 > — Gol D. Roger
 
 ---
 
-## ✨ Conclusión General
 
-| Aspecto | Valor en *One Piece* | Reflejo en la realidad |
-|----------|----------------------|------------------------|
-| **Worldbuilding** | Complejo, coherente, simbólico | Diversidad cultural y conflictos globales |
-| **Personajes** | Humanos, diversos, con ideales | Arquetipos universales del espíritu humano |
-| **Temas** | Libertad, justicia, verdad, legado | Luchas sociales y búsqueda de sentido |
-| **Mensaje** | Esperanza, resistencia, unión | Necesidad de cambio y conciencia colectiva |
 
 ---
 
 ### 🚢 “One Piece” no es solo una historia de piratas.  
-Es una **odisea sobre la humanidad, la verdad y la libertad.**
+Es un **reflejo sobre la humanidad, la verdad y la libertad.**
 
 ---
