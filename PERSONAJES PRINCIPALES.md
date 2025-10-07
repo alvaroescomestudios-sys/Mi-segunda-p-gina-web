@@ -12,12 +12,12 @@ Cada uno de ellos representa **una faceta de la condición humana** y **un ideal
 
 ---
 
-## 🧢 Monkey D. Luffy — La Libertad Absoluta
+## 🧢 Monkey D. Luffy — La Libertad Absoluta 
 
-Luffy no busca poder ni fama; su sueño de ser el **Rey de los Piratas** simboliza la **libertad total**.       
+Luffy no busca poder ni fama; su sueño de ser el **Rey de los Piratas** simboliza la **libertad total**.       <img src="71KcjFwSJTL._UF894,1000_QL80_.jpg" alt="Logo" align="right" width="150"> 
 Representa la pureza del espíritu humano que no se doblega ante las reglas injustas del sistema.
 
-> “Ser el Rey de los Piratas significa ser el más libre del mar.”                     <img src="71KcjFwSJTL._UF894,1000_QL80_.jpg" alt="Logo" align="right" width="150">              
+> “Ser el Rey de los Piratas significa ser el más libre del mar.”                                  
 
 - **Valor simbólico:** Libertad, autenticidad y esperanza.  
 - **Evolución:** De un joven impulsivo a un líder que inspira a todos a perseguir sus sueños sin miedo.  
