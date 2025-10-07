@@ -25,7 +25,7 @@ Representa la pureza del espíritu humano que no se doblega ante las reglas inju
 
 ---
 
-## ⚔️ Roronoa Zoro — La Determinación y el Honor
+## ⚔️ Roronoa Zoro — La Determinación y el Honor      <img src="4.jpg" alt="Logo" align="right" width="150">
 
 Zoro vive por su promesa: ser el **mejor espadachín del mundo**.  
 Su historia representa la **disciplina, el sacrificio y la lealtad** absoluta hacia sus principios y hacia Luffy.
