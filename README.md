@@ -22,7 +22,7 @@ Durante más de 25 años, Oda ha tejido un universo coherente, profundo y simbó
 
 ---
 
-# 1. Los Personajes de *One Piece* y lo que Representan
+# 1. Los Personajes de *One Piece* y lo que Representan (PERSONAJES-PRINCIPALES.md)
 
 La grandeza de *One Piece* no solo radica en su historia o en su mundo, sino en la **profundidad humana y simbólica de sus personajes**.  
 Eiichiro Oda ha construido una tripulación diversa, compleja y emocionalmente coherente, donde cada integrante del *Sombrero de Paja* encarna un valor, una lucha y una visión del mundo.  
