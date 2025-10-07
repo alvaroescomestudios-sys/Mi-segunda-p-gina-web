@@ -4,7 +4,7 @@
 **Autor:** Alvaro Escalona Comesaña  
 **Tema:** El paralelismo entre *One Piece* y los conflictos del mundo moderno.  
 
--- 
+---
 
 ## 4. El Mensaje de Esperanza: Los Sombreros de Paja como Símbolo de Resistencia
 
