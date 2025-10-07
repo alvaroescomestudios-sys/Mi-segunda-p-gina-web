@@ -36,7 +36,7 @@ Su historia representa la **disciplina, el sacrificio y la lealtad** absoluta ha
 
 ---
 
-## 🍊 Nami — El Dolor, la Inteligencia y la Redención
+## 🍊 Nami — El Dolor, la Inteligencia y la Redención  <img src="9b30a31952df316ab03ae85522b7d205.jpg" alt="Logo" align="right" width="150">
 
 Nami simboliza la **resiliencia ante la opresión**.  
 Su historia con Arlong es una de las más emocionales del anime: una niña que pierde todo, pero usa su inteligencia para recuperar su libertad y la de su pueblo.
