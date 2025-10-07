@@ -47,7 +47,7 @@ Su historia con Arlong es una de las más emocionales del anime: una niña que p
 
 ---
 
-## 🔥 Sanji — La Nobleza y la Dignidad
+## 🔥 Sanji — La Nobleza y la Dignidad  <img src="0367b7396bae1cb1b7e0fb04e40f3787.jpg" alt="Logo" align="right" width="150">
 
 Sanji representa la **caballerosidad, la empatía y el respeto hacia los demás**, incluso en un mundo cruel.  
 Su historia en el Baratie y su pasado con los Vinsmoke reflejan la lucha por **mantener la bondad en un entorno corrupto**.
@@ -58,7 +58,7 @@ Su historia en el Baratie y su pasado con los Vinsmoke reflejan la lucha por **m
 
 ---
 
-## 🧠 Nico Robin — El Conocimiento y la Verdad
+## 🧠 Nico Robin — El Conocimiento y la Verdad       <img src="61nrhqUpyOL._AC_SL1500_.jpg" alt="Logo" align="right" width="150">
 
 Robin es una arqueóloga perseguida por buscar **la verdad sobre la historia prohibida**.  
 Encarna la **búsqueda del conocimiento en un mundo que teme la verdad**.
@@ -70,9 +70,8 @@ Encarna la **búsqueda del conocimiento en un mundo que teme la verdad**.
 - **Paralelismo humano:** Los intelectuales, periodistas o científicos que arriesgan su vida por exponer la verdad.
 
 ---
-
-## 🦌 Tony Tony Chopper — La Inocencia y la Aceptación
-
+ 
+## 🦌 Tony Tony Chopper — La Inocencia y la Aceptación              <img src="bf2cf9baae7404230505757df738d826.jpg" alt="Logo" align="right" width="150">        
 Chopper es un reno que comió la Fruta del Diablo y fue rechazado por su especie y los humanos.  
 Representa **la búsqueda de identidad y aceptación**, y el deseo de ayudar a los demás.
 
@@ -82,7 +81,7 @@ Representa **la búsqueda de identidad y aceptación**, y el deseo de ayudar a l
 
 ---
 
-## 🏹 Usopp — La Mentira y el Coraje
+## 🏹 Usopp — La Mentira y el Coraje          <img src="12c2ee6684a8e981cad98c3092374a24.jpg" alt="Logo" align="right" width="150">  
 
 Usopp es el más humano del grupo: **miente por miedo, pero actúa con valentía cuando importa**.  
 Su evolución es una metáfora del **proceso de madurar y enfrentar los miedos**.
@@ -93,7 +92,7 @@ Su evolución es una metáfora del **proceso de madurar y enfrentar los miedos**
 
 ---
 
-## ⚙️ Franky — La Creatividad y la Superación
+## ⚙️ Franky — La Creatividad y la Superación       <img src="c0e50e980e729db822e8a0dee956e023.jpg" alt="Logo" align="right" width="150">
 
 Franky simboliza **la autosuperación y la libertad creativa**.  
 Su cuerpo modificado refleja cómo las cicatrices —físicas o emocionales— pueden transformarse en fuerza y arte.
@@ -104,7 +103,7 @@ Su cuerpo modificado refleja cómo las cicatrices —físicas o emocionales— p
 
 ---
 
-## 🎸 Brook — La Muerte, la Soledad y el Legado
+## 🎸 Brook — La Muerte, la Soledad y el Legado   <img src="Poster-One-Piece-Wanted-Brook-Wano-38x52cm-Abystyle-GBYDCO646_ad4358e1-dacc-4e37-bf75-cbb372f700da.webp" alt="Logo" align="right" width="150">
 
 Brook es un esqueleto vivo que perdió a su tripulación, pero mantuvo su alma.  
 Representa **la inmortalidad del espíritu, la música y la memoria**.
@@ -117,7 +116,7 @@ Representa **la inmortalidad del espíritu, la música y la memoria**.
 
 ---
 
-## 🐋 Jinbe — La Paz y la Igualdad
+## 🐋 Jinbe — La Paz y la Igualdad    <img src="Poster-One-Piece-Wanted-Jinbe-Wano-38x52cm-Abystyle-GBYDCO623_cc9a49c4-1359-4af7-8faa-c238d0734886.webp" alt="Logo" align="right" width="150">
 
 Jinbe es el símbolo de **la reconciliación y la coexistencia** entre especies y pueblos.  
 Su papel como antiguo enemigo y actual aliado representa **la madurez política y moral**.
