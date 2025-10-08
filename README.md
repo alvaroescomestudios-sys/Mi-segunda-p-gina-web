@@ -22,7 +22,7 @@ Durante más de 25 años, Oda ha tejido un universo coherente, profundo y simbó
 
 ---
 
-## 1. [Los Personajes de *One Piece* y lo que Representan](PERSONAJESPRINCIPALES.md)
+## 1. [Los Personajes de *One Piece* y lo que Representan](PERSONAJES.md)
 
 ## 2. [Los Conflictos Humanos: Racismo, Guerra, Desigualdad y Libertad](CONFLICTOS.md)
 
