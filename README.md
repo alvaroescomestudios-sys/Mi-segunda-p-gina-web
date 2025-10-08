@@ -2,7 +2,7 @@
 # 🌊 One Piece: Más que un Anime — Un Reflejo del Mundo Real
 
 **Autor:** Alvaro Escalona Comesaña  
-**Tema:** El paralelismo entre *One Piece* y los conflictos del mundo moderno.  
+**Tema:** El paralelismo entre *One Piece* y los conflictos del mundo moderno. 
 
 ---
 
