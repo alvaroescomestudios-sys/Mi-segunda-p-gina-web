@@ -30,6 +30,6 @@ Durante más de 25 años, Oda ha tejido un universo coherente, profundo y simbó
 
 ## 4. [El Mensaje de Esperanza: Los Sombreros de Paja como Símbolo de Resistencia](MENSAJE.md)
 
-## 5. [Reflexión Final](REFLEXION.md)
+## 5. [Reflexión Final](REFELXION.md)
 
 
